@@ -90,7 +90,7 @@ counfigure the config.json file in the config folder for the database connection
 
 ### **2. Database Setup**
 
-Sequelize is used as the ORM for interacting with the PostgreSQL database.
+Sequelize is used as the ORM for interacting with the PostgreSQL database. (This process output the The file config\config.json already exists. You can ignore this step)
 
 ```bash
 npx sequelize-cli init
