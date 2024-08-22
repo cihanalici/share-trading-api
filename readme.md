@@ -30,7 +30,8 @@ This project provides a backend RESTful API for a trading platform where users c
 Before you begin, ensure you have the following installed:
 
 - [Node.js](https://nodejs.org/) (v12 or later)
-- [npm](https://www.npmjs.com/)
+- [Express.js](https://expressjs.com/)
+- [Sequelize](https://sequelize.org/)
 - [PostgreSQL](https://www.postgresql.org/)
 
 ## **Getting Started**
