@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "test",
+    "database": "share_trading_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "test",
+    "database": "share_trading_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "postgres",
+    "password": "test",
+    "database": "share_trading_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
